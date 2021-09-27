@@ -1,4 +1,4 @@
-# solana-create-nft
+# solana-cli-create-nft
 ## Description
 A bash script that creates an NFT on the Solana **dev network** for the purpose of having some 
 fun and learning a bit more about NFTs.
